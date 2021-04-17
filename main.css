@@ -231,7 +231,7 @@ section .title::after{
 
 
 .about .title::after{
-    content: "Quien soy";
+    
 }
 
 
@@ -299,7 +299,7 @@ section .title::after{
 
 
 .services .title::after{
-    content: "Ultimas novedades";
+   
 
 }
 
@@ -473,7 +473,7 @@ section .title::after{
  
   #gallery .title::after{
     color: #51759F;
-    content: "Estela con la gente";
+    
   }
   
   .wrapper{
@@ -613,7 +613,7 @@ section .title::after{
 }
 
   .teams .title::after{          
-      content: "Algunos de mis proyectos";
+     
   }
 
   .teams .carousel .card{
@@ -757,7 +757,7 @@ section .title::after{
 }
 
 .contact .title::after{
-    content: "Estemos en contacto";
+   
 }
 .contact .contact-content .column{
     width:  clac(50% - 30px);
